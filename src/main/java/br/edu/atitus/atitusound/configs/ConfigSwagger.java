@@ -19,7 +19,7 @@ public class ConfigSwagger {
 						.description("Documentação do backend AtituSound")
 						.version("Version 1.0.0")
 						.contact(new Contact()
-								.name("Desenvolvedora Maria Eduarda  Carvalho")
+								.name("Desenvolvedora Maria Eduarda Carvalho e Erick De Nardi")
 								.email("1134791@atitus.edu.br")));
 	}
 
